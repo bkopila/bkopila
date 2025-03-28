@@ -13,5 +13,5 @@ I know basic programming.
 I have experience in open-source contributions.
 I am good at teamwork and communication.
 
-Why I Want to Join the Developers' Community
-I want to learn, grow, and work with others to create useful technology.
+
+I want to join this community for to learn, grow, and work with others to create useful technology.
