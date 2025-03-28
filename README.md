@@ -1,9 +1,9 @@
 Hi, I'm Mamata Bhattarai
 
-About Me
+
 I love learning, sharing knowledge, and working on meaningful projects.
 
-Interests and Hobbies
+
 I enjoy coding and contributing to open-source projects.
 I like mentoring and being part of the community.
 I am always curious to learn new things.
