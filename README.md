@@ -16,5 +16,3 @@ I am always curious to learn new things.
 ## 🌱 Why I want to join Developer community
 I want to join this community to **learn, grow, and collaborate** with others to create **useful technology**.  
 
-## 📫 Connect with Me  
- userkopila@gmail.com
